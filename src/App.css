@@ -1,0 +1,13 @@
+
+.table {
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(187, 18, 18);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table-header {
+  text-align: center;
+}
+
