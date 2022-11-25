@@ -62,4 +62,16 @@ let allCountryScores = [
   },
 ];
 
+
+// function answer(theN, theS) {
+//   for (let i = 0; i < allCountryScores.length; i++) {
+//   for (let j = 0; j < allCountryScores[i].scores.length; j++) {
+//      theN = allCountryScores[i].scores[j].n;
+//      theS = allCountryScores[i].scores[j].s;
+//   }
+// }
+// }
+
+//default {}
+
 export default allCountryScores;
